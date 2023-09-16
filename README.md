@@ -26,5 +26,5 @@ The app has been designed to be scalable and easy to maintain to keep up with we
 > **Note**
 > If there are failures in scenarios, you can find them in the test_outouts file
 
-## [Project Preview]
+## [Project Preview](https://youtu.be/CMs97ijk7-w)
 ![AddStateFeature](https://github.com/MahmoudG-Kotp/LDSAutomationTask/assets/31800978/5a748be6-669d-4dae-a603-2c2d5014654d)
