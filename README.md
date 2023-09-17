@@ -26,5 +26,8 @@ The app has been designed to be scalable and easy to maintain to keep up with we
 > **Note**
 > If there are failures in scenarios, you can find them in the test_outouts file
 
+## [Test Cases Analysis & Design](https://docs.google.com/spreadsheets/d/1YkcUOil9fJthNM1WM_EcMysomsAt55BV6ejPT_33QVE/edit?usp=sharing)
+![image](https://github.com/MahmoudG-Kotp/LDSAutomationTask/assets/31800978/878593ed-233d-43c6-8e28-2ba3c047d7ce)
+
 ## [Project Preview](https://youtu.be/CMs97ijk7-w)
 ![AddStateFeature](https://github.com/MahmoudG-Kotp/LDSAutomationTask/assets/31800978/5a748be6-669d-4dae-a603-2c2d5014654d)
